@@ -1,0 +1,15 @@
+html {
+  font-size: 16px;
+}
+
+@media screen and (max-width: 768px) {
+.navbar.active .navbar-menu {
+    display: block;
+  }
+}
+
+.swiper-slide img {
+  display: block;
+  object-fit: cover;
+}
+
